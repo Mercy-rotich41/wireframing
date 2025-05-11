@@ -21,3 +21,28 @@ This repository is part of the *Figmify: From Wireframe to Prototype* project. I
 
 Stay tuned for updates as we dive deeper into designing intuitive, functional prototypes!
 
+## 🧩 Key Elements of Wireframing
+
+Wireframes consist of several essential components that work together to form the foundation of a digital interface. Below are the key elements and how they contribute to an effective design:
+
+### 1. 🗂️ Layout Structure
+The layout structure defines the skeletal arrangement of visual components on a page or screen. It determines how space is allocated and ensures visual hierarchy.
+
+**Example**: Placing a hero image at the top followed by a call-to-action (CTA) button helps users understand what the page is about and what to do next.
+
+### 2. 🧭 Navigation
+Navigation refers to menus, links, and other interactive elements that help users move through the product or website.
+
+**Example**: A top navigation bar with links to Home, About, Services, and Contact allows users to access different sections with ease.
+
+### 3. 📝 Content Placement
+Content placement involves deciding where text, images, videos, and buttons should go to guide the user’s focus and enhance readability.
+
+**Example**: Strategically placing a product description next to a product image helps users understand the item without scrolling excessively.
+
+### 4. ⚙️ Functionality
+Functionality highlights interactive elements and features such as buttons, input fields, sliders, and forms that users interact with.
+
+**Example**: Including a “Sign Up” button below an email input field shows users the next step in the registration process.
+
+Each of these elements contributes to creating intuitive, user-centered wireframes that streamline user flows and reduce confusion.
