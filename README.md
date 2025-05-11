@@ -95,3 +95,28 @@ High-fidelity (hi-fi) wireframes are more detailed representations that closely 
 
 **Reasoning:** Based on visual detail, interactivity, and design completeness, we will analyze whether the wireframe is low-fidelity or high-fidelity and explain why.
 
+##  Wireframing Tools
+
+Wireframing tools help designers create, iterate, and share wireframes efficiently. These tools range from simple sketching platforms to advanced collaborative design systems. Below are some commonly used wireframing tools:
+
+### 🧰 Popular Wireframing Tools
+
+- **Figma**: Cloud-based design tool known for real-time collaboration and prototyping features.
+- **Balsamiq**: Ideal for quick and simple low-fidelity wireframes with a hand-drawn feel.
+- **Adobe XD**: Offers powerful prototyping and design tools, ideal for high-fidelity wireframes and mockups.
+- **Sketch**: macOS-based design tool commonly used for UI/UX work, especially in high-fidelity design.
+- **Wireframe.cc**: Minimalist web-based tool suitable for fast, low-fidelity wireframe creation.
+
+---
+
+###  Why Figma?
+
+**Figma** stands out as a leading wireframing and UI/UX design tool due to its:
+
+- **Real-time Collaboration**: Multiple users can edit and comment on designs simultaneously.
+- **Browser-Based Access**: No need for downloads—accessible from any device with internet access.
+- **Component System**: Reusable design elements speed up workflow and maintain consistency.
+- **Built-In Prototyping**: Transforms static wireframes into interactive prototypes without leaving the app.
+- **Version Control**: Tracks changes and allows easy reversal to previous versions.
+
+These features make Figma an ideal choice for both beginners and experienced designers looking to turn ideas into structured, functional wireframes and prototypes efficiently.
