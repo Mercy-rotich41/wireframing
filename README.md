@@ -46,3 +46,52 @@ Functionality highlights interactive elements and features such as buttons, inpu
 **Example**: Including a “Sign Up” button below an email input field shows users the next step in the registration process.
 
 Each of these elements contributes to creating intuitive, user-centered wireframes that streamline user flows and reduce confusion.
+
+## 🧱 Types of Wireframes
+
+Wireframes can vary in detail and visual refinement depending on the stage of the design process. The two main types are **Low-Fidelity** and **High-Fidelity** wireframes.
+
+### 📝 Low-Fidelity Wireframes
+
+Low-fidelity (lo-fi) wireframes are basic sketches or grayscale layouts that represent the structure of a design without focusing on visual details.
+
+**Characteristics:**
+- Simple shapes and placeholders
+- No color or images
+- Focus on layout and functionality
+
+**When to Use:**
+- In the early stages of design
+- To brainstorm and validate ideas quickly
+- For team discussions and user feedback
+
+**Example Use Case:** Sketching out user flows for a login page before committing to specific design details.
+
+---
+
+### 🎨 High-Fidelity Wireframes
+
+High-fidelity (hi-fi) wireframes are more detailed representations that closely resemble the final product.
+
+**Characteristics:**
+- Detailed UI elements with fonts, icons, and images
+- May include actual content or sample data
+- Sometimes interactive (clickable)
+
+**When to Use:**
+- In later stages of the design process
+- To present to stakeholders or conduct usability testing
+- Before moving to the development phase
+
+**Example Use Case:** Creating a fully styled prototype of a mobile app to simulate the real user experience.
+
+---
+
+## 🧪 Identify the Wireframe Type
+
+> _This section will be used to explain what type of wireframe is presented (e.g., image or link to Figma)._
+
+**Type:** `To be added once wireframe is created or embedded.`
+
+**Reasoning:** Based on visual detail, interactivity, and design completeness, we will analyze whether the wireframe is low-fidelity or high-fidelity and explain why.
+
